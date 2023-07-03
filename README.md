@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeorgeMavridis24
 - 🌱 I’m currently learning C program Language
 - 💞️ I’m looking to collaborate on Infortmatics
-- 📫 How to reach me mavridis.giorgos@gmail.com
+- 📫 How to reach me mavridis.giorgos2004@gmail.com
 - I am a first year student at the Department of Informatics of the University Of Western Macedonia.
 Happy to learn new thinks and cover more topics in the fields of informatics and techology.
 
